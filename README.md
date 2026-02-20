@@ -5,7 +5,8 @@
 This project presents an interactive **Power BI dashboard** built on historical sales data from a supermarket chain operating across **3 branches** over a **3-month period (January–March 2019)**. The goal is to uncover actionable insights around customer behavior, product performance, payment preferences, and satisfaction levels.
 
 ---
-
+## DashBoard- 
+<img width="1337" height="745" alt="Snapshot_Heart_Disease" src="[https://github.com/user-attachments/assets/2adaca66-c918-4a19-abf5-f92b430d57a7](https://github.com/AritraBanerjee-09/SuperMarket-Sales/blob/23850d2c5e3a64957907a973ef6254bc6ba57913/BI%20image.jpg)" />
 ## 📊 Dataset Description
 
 The dataset contains transactional records from 3 supermarket branches (A, B, C) located in different cities.
