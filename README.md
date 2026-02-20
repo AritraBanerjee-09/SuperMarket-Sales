@@ -5,8 +5,13 @@
 This project presents an interactive **Power BI dashboard** built on historical sales data from a supermarket chain operating across **3 branches** over a **3-month period (January–March 2019)**. The goal is to uncover actionable insights around customer behavior, product performance, payment preferences, and satisfaction levels.
 
 ---
-## DashBoard- 
-<img width="1337" height="745" alt="Snapshot_Heart_Disease" src="https://github.com/AritraBanerjee-09/SuperMarket-Sales/blob/23850d2c5e3a64957907a973ef6254bc6ba57913/BI%20image.jpg" />
+
+## 📸 Dashboard Preview
+
+<img width="1337" height="745" alt="Supermarket Sales Power BI Dashboard" src="https://github.com/AritraBanerjee-09/SuperMarket-Sales/blob/23850d2c5e3a64957907a973ef6254bc6ba57913/BI%20image.jpg" />
+
+---
+
 ## 📊 Dataset Description
 
 The dataset contains transactional records from 3 supermarket branches (A, B, C) located in different cities.
@@ -39,6 +44,7 @@ The dataset contains transactional records from 3 supermarket branches (A, B, C)
 - Total customers: **1,000** — Male: **499**, Female: **501** (nearly equal split)
 
 ### 💰 Sales Performance
+
 | Metric | Value |
 |---|---|
 | Total Sales (incl. tax) | $322.97K |
@@ -58,6 +64,7 @@ The dataset contains transactional records from 3 supermarket branches (A, B, C)
 - Most used: **E-wallet** and **Cash**, followed by **Credit Card**
 
 ### ⭐ Customer Satisfaction
+
 | Satisfaction Level | Percentage |
 |---|---|
 | Good (moderate) | 42.6% |
@@ -78,13 +85,12 @@ The dataset contains transactional records from 3 supermarket branches (A, B, C)
 ## 📁 Repository Structure
 
 ```
-supermarket-sales-powerbi/
+SuperMarket-Sales/
 │
 ├── README.md
-├── dataset/
-│   └── supermarket_sales.csv
-└── dashboard/
-    └── Supermarket_Sales.pbix
+├── supermarket_sales - Sheet1.csv
+├── BI image.jpg
+└── Supermarket_Sales.pbix
 ```
 
 ---
@@ -93,10 +99,10 @@ supermarket-sales-powerbi/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/supermarket-sales-powerbi.git
+   git clone https://github.com/AritraBanerjee-09/SuperMarket-Sales.git
    ```
 2. Open `Supermarket_Sales.pbix` in **Power BI Desktop**
-3. If needed, update the data source path to point to `dataset/supermarket_sales.csv`
+3. If needed, update the data source path to point to `supermarket_sales - Sheet1.csv`
 4. Explore the interactive dashboard
 
 ---
@@ -110,7 +116,9 @@ The dataset is publicly available on [Kaggle — Supermarket Sales](https://www.
 ## 🙋 Author
 
 **Aritra Banerjee**
-[LinkedIn](https://www.linkedin.com/in/aritra-banerjee-/) • [GitHub](https://github.com/AritraBanerjee-09)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-banerjee-/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AritraBanerjee-09)
 
 ---
 
